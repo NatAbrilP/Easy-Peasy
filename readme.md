@@ -1,0 +1,1 @@
+Éste ejercicio me costó mucho antes de hacer el Hard en grupo. Hice un poco yo copiando y mirando la clase, y una parte la descargué de slack. Entiendo todo(más aún luego del hard, que me fue más complejo), volví a mirar la clase N°19 para asegurarme de comprender todos los puntos porque no entendía el sort, ni para qué era el $.
